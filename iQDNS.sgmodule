@@ -2,4 +2,4 @@
 #!desc=Enable DNS over HTTPS (DoH) with iQDNS.
 
 [General]
-doh-server = https://a.passcloud.xyz/dns-query, https://worldwide.passcloud.xyz/dns-query
+doh-server = https://a.passcloud.xyz/dns-query
