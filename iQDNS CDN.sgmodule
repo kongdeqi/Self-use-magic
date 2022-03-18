@@ -1,4 +1,4 @@
-#!name=iQDNS
+#!name=iQDNS CDN
 #!desc=Enable DNS over HTTPS (DoH) with iQDNS.
 
 [General]
