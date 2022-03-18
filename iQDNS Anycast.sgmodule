@@ -1,4 +1,4 @@
-#!name=iQDNS
+#!name=iQDNS Anycast
 #!desc=Enable DNS over HTTPS (DoH) with iQDNS.
 
 [General]
