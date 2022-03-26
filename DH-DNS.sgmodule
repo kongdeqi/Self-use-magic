@@ -1,5 +1,0 @@
-#!name=DH-DNS
-#!desc=Enable DNS over HTTPS (DoH) with DH-DNS.
-
-[General]
-doh-server = https://162.14.132.76/dns-query
