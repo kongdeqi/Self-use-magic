@@ -1,0 +1,5 @@
+#!name=NextDNS
+#!desc=Enable DNS over HTTPS (DoH) with NextDNS.
+
+[General]
+doh-server = https://dns.nextdns.io/eb62c2
