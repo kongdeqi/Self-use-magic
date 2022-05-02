@@ -3,4 +3,4 @@
 
 [General]
 dns-server = 119.29.29.29
-doh-server = https://doh-eafe3335-iPhone.doh.pub/dns-query
+doh-server = https://doh-eafe3335.doh.pub/dns-query
