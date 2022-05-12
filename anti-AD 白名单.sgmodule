@@ -2,4 +2,4 @@
 #!desc=https://github.com/privacy-protection-tools/anti-AD
 
 [Rule]
-DOMAIN-SET,https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt,DIRECT
+DOMAIN-SET,https://raw.githubusercontent.com/kongdeqi/dead-horse/master/anti-ad-white-list.txt,DIRECT
