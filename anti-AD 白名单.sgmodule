@@ -3,4 +3,3 @@
 
 [Rule]
 DOMAIN-SET,https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt,DIRECT
-RULE-SET,graph.facebook.com,Proxy
